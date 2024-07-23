@@ -4,19 +4,19 @@ internship.
 
 # Projects
 ### Video Game Development:
-Led a team in developing a video game for a competition in October 2022. It was a three day 
+- Led a team in developing a video game for a competition in October 2022. It was a three day 
 effort, two of us on the team. The final product was an endless wave based survival game 
 for windows. The comments given by the judges were that the game was creative and had
 high potential for future development.
 
 # Skills
 ### Coding Languages I've worked with:
-Rust, Go, Zig, C++, Python
+- Rust, Go, Zig, C++, Python
 ### Technical Skills:
 - Working with VM's, Linux, Windows. 
 - Messing around with Block-chain.
 ### Soft Skills:
-Creativity, Communication, Problem Solving, and Good Data Analysis.
+- Creativity, Communication, Problem Solving, and Good Data Analysis.
 
 # Experience
 ### Block-chain Experience:
